@@ -6,7 +6,7 @@ async function data() {
     })
   }
 await data()
-console.log('d',parameters)
+console.log('a',parameters)
 // setTimeout(() => {
 //     console.log(parameters)
     
